@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportHeight="200"
+    android:viewportWidth="200">
+    <path
+        android:name="line_horizontal"
+        android:pathData="M0 0,L100 0"
+        android:strokeColor="@color/colorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="5" />
+    <path
+        android:name="line_vertical"
+        android:pathData="M0 0,L0 100"
+        android:strokeColor="@color/cyan_300"
+        android:strokeLineCap="round"
+        android:strokeWidth="5" />
+    <path
+        android:name="triangle"
+        android:fillColor="@color/cyan_300"
+        android:pathData="M 10 10,L80 10,L 45 45,Z"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="butt"
+        android:strokeWidth="5" />
+
+    <!--top Horizontal-Bottom Horizontal-First Vertical-second Vertical-->
+    <path
+        android:name="hash_tag"
+        android:pathData="
+        M50 50,L10 50,
+        M50 70,L10 70,
+        M20 40,L20 80,
+        M40 40,L40 80
+        "
+        android:strokeColor="@color/indigo_400"
+        android:strokeLineCap="round"
+        android:strokeWidth="5" />
+
+    <path
+        android:name="hash_tag_italic"
+        android:pathData="
+        M110 50,L150 50,
+        M110 70,L150 70,
+        M120 40,L115 80,
+        M145 40,L140 80
+        "
+        android:strokeColor="@color/indigo_400"
+        android:strokeLineCap="round"
+        android:strokeWidth="5" />
+    <path
+        android:name="vivek"
+        android:pathData="
+        M10 150,L30 190,
+        M50 150,L30 190,
+
+        M60 150,L 60 190,
+
+        M70 150,L90 190,
+        M110 150,L90 190,
+
+            M120 150,L120 190,
+            M120 150,L140 150,
+            M120 170,L140 170,
+            M120 190,L140 190,
+
+            M150 150,L 150 190,
+            M165 150,L150 190,
+            M158 170,L170 190,
+
+
+        "
+        android:strokeColor="@color/cyan_300"
+        android:strokeLineCap="round"
+        android:strokeWidth="5" />
+
+
+    <!--<path-->
+    <!--android:name="v"-->
+    <!--android:pathData="M02,70L0,-70 70,70 0,0-70,70Z"-->
+    <!--android:strokeColor="@color/colorAccent"-->
+    <!--android:strokeLineCap="square"-->
+    <!--android:strokeWidth="5" />-->
+
+    <!--<path-->
+    <!--android:name="hash"-->
+    <!--android:pathData="M39,45L39,80 M57,45L57,80 M66,54L31,54 M66,71L31,71"-->
+    <!--android:strokeColor="@color/indigo_400"-->
+    <!--android:strokeLineCap="round"-->
+    <!--android:strokeWidth="5" />-->
+</vector>

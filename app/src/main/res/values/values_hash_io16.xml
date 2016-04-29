@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  Copyright 2016 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<!-- Define elements that are repeated here and reference them so that we only have to update them
+     in one place. -->
+<resources>
+
+    <string name="path_funky_six">M302.14,60.72C302.29,61.46 276.46,97.06 270.1,112.55C260.87,138.44
+        278.6,149.83 284.3,152.76C299.15,160.38 316.85,150.27 323.08,141.43C329.3,132.59
+        333.05,109.99 316.85,100.57C306.85,94.75 290.54,97.32 290.2,97.06C289.85,96.79 276.32,81.31
+        276.46,80.88C276.6,80.45 294.73,77.62 302.88,84.28C315.76,92.99 315.62,114.99
+        306.84,127.42C298.06,139.85 276.46,144.38 260.54,130.73C238.46,111.79 259.06,85.64
+        260.87,83.1C260.87,83.1 286.23,46.19 286.83,46.03C287.43,45.87 301.99,59.99 302.14,60.72Z
+    </string>
+    <string name="path_one">M211,45L235,45A2,2 0,0 1,237 47L237,155A2,2 0,0 1,235 157L211,157A2,2
+        0,0 1,209 155L209,47A2,2 0,0 1,211 45z
+    </string>
+    <!--<item name="hashtagstroke_width" format="float" type="dimen">5</item>-->
+
+</resources>
