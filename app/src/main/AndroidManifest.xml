@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".DataBinding" />
-        <activity android:name=".GoogleAnimation"></activity>
+        <activity android:name=".GoogleAnimation" />
+        <activity android:name=".SearchActivity"></activity>
     </application>
 
 </manifest>

@@ -10,9 +10,9 @@
     "class": "GoogleAnimation"
   },
   {
-    "title": "To Do 2",
-    "description": "TO DO",
-    "class": "DataBinding"
+    "title": "Search Activity Animation",
+    "description": "Search Bar Animation",
+    "class": "SearchActivity"
   },
   {
     "title": "To Do 3",

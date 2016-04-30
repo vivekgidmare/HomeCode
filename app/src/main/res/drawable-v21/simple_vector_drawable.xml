@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="200dp"
-    android:height="200dp"
+    android:width="400dp"
+    android:height="400dp"
     android:viewportHeight="200"
     android:viewportWidth="200">
     <path
@@ -73,19 +73,4 @@
         android:strokeColor="@color/cyan_300"
         android:strokeLineCap="round"
         android:strokeWidth="5" />
-
-
-    <!--<path-->
-    <!--android:name="v"-->
-    <!--android:pathData="M02,70L0,-70 70,70 0,0-70,70Z"-->
-    <!--android:strokeColor="@color/colorAccent"-->
-    <!--android:strokeLineCap="square"-->
-    <!--android:strokeWidth="5" />-->
-
-    <!--<path-->
-    <!--android:name="hash"-->
-    <!--android:pathData="M39,45L39,80 M57,45L57,80 M66,54L31,54 M66,71L31,71"-->
-    <!--android:strokeColor="@color/indigo_400"-->
-    <!--android:strokeLineCap="round"-->
-    <!--android:strokeWidth="5" />-->
 </vector>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/fingerprint_width"
+    android:height="@dimen/fingerprint_height"
+    android:viewportWidth="@integer/fingerprint_viewport_width"
+    android:viewportHeight="@integer/fingerprint_viewport_height">
+
+    <group
+        android:name="fingerprint">
+
+        <path
+            android:name="ridge_1"
+            android:pathData="@string/path_ridge_1"
+            android:strokeColor="@color/fingerprint_ridge"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+        <path
+            android:name="ridge_2"
+            android:pathData="@string/path_ridge_2"
+            android:strokeColor="@color/fingerprint_ridge"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+        <path
+            android:name="ridge_3"
+            android:pathData="@string/path_ridge_3"
+            android:strokeColor="@color/fingerprint_ridge"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+        <path
+            android:name="ridge_4"
+            android:pathData="@string/path_ridge_4"
+            android:strokeColor="@color/fingerprint_ridge"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+        <path
+            android:name="ridge_5"
+            android:pathData="@string/path_ridge_5"
+            android:strokeColor="@color/fingerprint_ridge"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+    </group>
+
+    <!-- we overlay the above with a duplicate of the fingerprint which is colored differently
+         and uses a clip to only reveal portions at a time. -->
+    <group
+        android:name="fingerprint_scan">
+
+        <clip-path
+            android:name="scan_clip"
+            android:pathData="@string/clip_path_scan_top" />
+
+        <path
+            android:name="ridge_1"
+            android:pathData="@string/path_ridge_1"
+            android:strokeColor="@color/fingerprint_ridge_scan"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+        <path
+            android:name="ridge_2"
+            android:pathData="@string/path_ridge_2"
+            android:strokeColor="@color/fingerprint_ridge_scan"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+        <path
+            android:name="ridge_3"
+            android:pathData="@string/path_ridge_3"
+            android:strokeColor="@color/fingerprint_ridge_scan"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+        <path
+            android:name="ridge_4"
+            android:pathData="@string/path_ridge_4"
+            android:strokeColor="@color/fingerprint_ridge_scan"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+        <path
+            android:name="ridge_5"
+            android:pathData="@string/path_ridge_5"
+            android:strokeColor="@color/fingerprint_ridge_scan"
+            android:strokeLineCap="round"
+            android:strokeWidth="@integer/fingerprint_stroke_width" />
+
+    </group>
+
+</vector>

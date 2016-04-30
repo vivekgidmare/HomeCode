@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/fingerprint_width"
+    android:height="@dimen/fingerprint_height"
+    android:viewportWidth="@integer/fingerprint_viewport_width"
+    android:viewportHeight="@integer/fingerprint_viewport_height">
+    <path
+        android:name="zero_1"
+        android:pathData="M159.5,119.5m-37.5,0a37.5,37.5 0,1 1,75 0a37.5,37.5 0,1 1,-75 0"
+        android:strokeColor="@color/cyan_300"
+        android:strokeWidth="5" />
+
+
+</vector>

@@ -30,10 +30,10 @@ public class MainActivity extends AppCompatActivity {
     private ArrayList<DataItem> dataItemArrayList = new ArrayList<>();
     private int scrolledDistance = 0, width = 0, height = 0;
 
-    //    https://github.com/google/android-ui-toolkit-demos/blob/master/RecyclerView/RecyclerViewAnimations/app/src/main/java/examples/android/com/recyclerviewanimations/MainActivity.java
-//    https://gist.github.com/nickbutcher/e36ee3b3d6580ddb7a0a
-//    https://github.com/lisawray/fontbinding
+    //    https://gist.github.com/nickbutcher/e36ee3b3d6580ddb7a0a
 //    https://gist.github.com/nickbutcher/b3962f0d14913e9746f2
+    //    https://github.com/google/android-ui-toolkit-demos/blob/master/RecyclerView/RecyclerViewAnimations/app/src/main/java/examples/android/com/recyclerviewanimations/MainActivity.java
+//    https://github.com/lisawray/fontbinding
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -71,7 +71,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
 
 
         recyclerView.addOnScrollListener(new RecyclerView.OnScrollListener() {
