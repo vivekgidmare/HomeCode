@@ -6,5 +6,4 @@
     <target
         android:name="zero"
         android:animation="@animator/animator_offset_trim_zero" />
-
 </animated-vector>

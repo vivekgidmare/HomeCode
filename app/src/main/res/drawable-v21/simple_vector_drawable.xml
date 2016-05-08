@@ -7,7 +7,7 @@
     <path
         android:name="line_horizontal"
         android:pathData="M0 0,L100 0"
-        android:strokeColor="@color/colorPrimary"
+        android:strokeColor="@color/pink_500"
         android:strokeLineCap="round"
         android:strokeWidth="5" />
     <path
@@ -33,7 +33,7 @@
         M20 40,L20 80,
         M40 40,L40 80
         "
-        android:strokeColor="@color/indigo_400"
+        android:strokeColor="@color/pink_500"
         android:strokeLineCap="round"
         android:strokeWidth="5" />
 
@@ -45,7 +45,7 @@
         M120 40,L115 80,
         M145 40,L140 80
         "
-        android:strokeColor="@color/indigo_400"
+        android:strokeColor="@color/pink_500"
         android:strokeLineCap="round"
         android:strokeWidth="5" />
     <path
@@ -73,4 +73,11 @@
         android:strokeColor="@color/cyan_300"
         android:strokeLineCap="round"
         android:strokeWidth="5" />
+
+    <path
+        android:pathData=""
+        android:name="mothers_day"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="4" />
 </vector>

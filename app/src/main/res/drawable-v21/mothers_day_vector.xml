@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="900dp"
+    android:height="200dp"
+    android:viewportHeight="200"
+    android:viewportWidth="900">
+    <path
+        android:name="h"
+        android:pathData="
+            M10 10,L10 50,
+            M10 30,L30 30,
+            M30 10,L30 50"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+    <path
+        android:name="a"
+        android:pathData="M50 10,L60 50
+        M40 50,L50 10
+        M40 30,L60 30"
+        android:strokeColor="@color/cyan_300"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+    <path
+        android:name="p"
+        android:pathData="M70 10,L70 50,
+         M70,10 C70,10 110,20, 70,30
+         "
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="butt"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="p2"
+        android:pathData="M100 10,L100 50,
+         M100,10 C100,10 150,20, 100,30"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="butt"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="y"
+        android:pathData="M140 30,L140 50,
+         M130,10 C130,10 140,55, 150,10"
+        android:strokeColor="@color/cyan_300"
+        android:strokeLineCap="butt"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="m"
+        android:pathData="M180 10,L180 50,
+            M180 10,L190 30,
+            M190 30,L200 10,
+            M200 10,L200 50"
+        android:strokeColor="@color/colorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="o"
+        android:pathData="M225,10 m0.5,0 a0,0 0,1 1,0 0 a15,20 0,1 1,-1 0"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+    <path
+        android:name="t"
+        android:pathData="
+        M250 10,L280 10,
+        M265 10,L265 50,
+        "
+        android:strokeColor="@color/colorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="h"
+        android:pathData="M290 10,L290 50,
+            M290 30,L310 30,
+            M310 10,L310 50"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+    <path
+        android:name="e"
+        android:pathData=" M320 10,L320 50,
+            M320 10,L340 10,
+            M320 30,L340 30,
+            M320 50,L340 50,"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+    <path
+        android:name="r"
+        android:pathData="M350 10,L350 50,
+         M350,10 C350,10 400,20, 350,30,
+         M350,30 L370,50
+         "
+        android:strokeColor="@color/colorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+    <path
+        android:name="s"
+        android:pathData="M410,10 C370,10 375,30, 400,30 s25,25,-10,20"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+    <path
+        android:name="d"
+        android:pathData="M440,10 C470,10 470,50, 440,50
+        M440 10,L440 50
+        "
+        android:strokeColor="@color/colorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+    <path
+        android:name="a"
+        android:pathData="M480 10,L490 50
+        M470 50,L480 10
+        M470 30,L490 30"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+    <path
+        android:name="y"
+        android:pathData="M510 30,L510 50,
+         M520,10 C520,10 510,55, 500,10"
+        android:strokeColor="@color/cyan_300"
+        android:strokeLineCap="round"
+        android:strokeWidth="4" />
+</vector>

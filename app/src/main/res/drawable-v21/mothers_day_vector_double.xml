@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="900dp"
+    android:height="200dp"
+    android:viewportHeight="200"
+    android:viewportWidth="900">
+    <path
+        android:name="nine"
+        android:pathData="@string/io_path_nine"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="butt"
+        android:strokeWidth="2" />
+    <path
+        android:name="eight"
+        android:pathData="@string/io_path_eight"
+        android:strokeColor="@color/cyan_300"
+        android:strokeLineCap="butt"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="seven"
+        android:pathData="@string/io_path_seven"
+        android:strokeColor="@color/cyan_300"
+        android:strokeLineCap="butt"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="six"
+        android:pathData="@string/io_path_six"
+        android:strokeColor="@color/colorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="five"
+        android:pathData="@string/io_path_five"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+
+    <path
+        android:name="four"
+        android:pathData="@string/io_path_four"
+        android:strokeColor="@color/colorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="three"
+        android:pathData="@string/io_path_three"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+    <path
+        android:name="two"
+        android:pathData="@string/io_path_two"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+
+    <path
+        android:name="one"
+        android:pathData="@string/io_path_one"
+        android:strokeColor="@color/colorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+
+    <path
+        android:name="zero"
+        android:pathData="@string/io_path_zero"
+        android:strokeColor="@color/pink_500"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+</vector>
