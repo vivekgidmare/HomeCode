@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_c73d10c0dd823d81e958b058cd4f54dab628f06e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_202f77a01802f0924cf6f744e66b5412a2ebcb2a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_e5036db814bbdcad7d7bcae72f471cd81292c16c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_84fd8afad1a9055b02fbfc2c104dc52c38f1b04c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_dcd6d81f2b9520dc19023f1f81f462db2d683adc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_0af5acd6b1dbcd9f2d6307b54e76b516353e4994/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/exploded-aar/com.android.databinding/library/1.0-rc5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="83118a37ee518f1068b6aefab176a83a25761e52">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.0-rc5_bba877783f8fb5756d9b04ae55a4f9a0e5b6b061/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="008c44adfd18177e2680814ec611325f70eeb79d">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c9cd8040175482fdc22235fc13d9f454a4b4b6c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_cc66c096728543c89c212ea70d140680fa9695e9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.0.0/baseLibrary-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b8b808a164595b20caac1c1f342b475d0036ad21">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.0.0_d378504b4e0ec4389cb7c424d5610dbfc22e659a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_4a2910f716c0674ce92bb8b8eeb353bceab7c07b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.0-rc5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09804ef3ea3b68a21f819f06e68877fe441f958c">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.0-rc5_f0176b2083232263f2ce0bf2f43a34c4bfc79216/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a7b7be84d47b3e0699045eecc3d895a3ca3fe9dc">
+        <dex dex="/Users/vivek/Data/Android/HomeCode/HomeCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a9d9c9852fd53dd941213d7255bf7ea264c7fb35/classes.dex" />
+    </item>
+
+</items>

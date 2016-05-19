@@ -22,7 +22,7 @@ public class SceneDetailsActivity extends AppCompatActivity {
         assert toolbar != null;
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setTitle("Action bar title");
+        getSupportActionBar().setTitle("");
 
         imageView = (ImageView) findViewById(R.id.image_details);
         imageView.post(new Runnable() {
