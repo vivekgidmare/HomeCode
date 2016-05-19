@@ -15,8 +15,8 @@
     "class": "SearchActivity"
   },
   {
-    "title": "To Do 3",
-    "description": "TO DO",
-    "class": "DataBinding"
+    "title": "Scene Transition Recycler",
+    "description": "Implementing scene transition in click of RecyclerView adapter",
+    "class": "SceneTransitionActivity"
   }
 ]

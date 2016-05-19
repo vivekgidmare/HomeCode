@@ -8,4 +8,8 @@
     <color name="cyan_a100">#84FFFF</color>
     <color name="pink_500">#E91E63</color>
     <color name="cyan_300">#4DD0E1</color>
+
+
+    <color name="gray_dark">#80bebebe</color>
+    <color name="white">#fff</color>
 </resources>

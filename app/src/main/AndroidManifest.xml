@@ -17,7 +17,14 @@
         </activity>
         <activity android:name=".DataBinding" />
         <activity android:name=".PathAnimationsActivity" />
-        <activity android:name=".SearchActivity"></activity>
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".SceneTransitionActivity" />
+        <activity
+            android:name=".SceneDetailsActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".SceneRDetailsActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
